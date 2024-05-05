@@ -1,4 +1,4 @@
-# pentago-python
+# pentago with Q-learning
 
 [Pentago](https://en.wikipedia.org/wiki/Pentago) game implementation in Python with Q-learning and eventually also image recognition with the help of a webcam.
 
